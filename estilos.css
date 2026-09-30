@@ -240,7 +240,7 @@ p {
 
     box-shadow:
         0 0 0 8px #d00018,
-        0 20px 50px rgba(0, 0, 0, 0.5);
+        0 20px 50px rgb(248, 245, 245);
 }
 
 .escudo span {
