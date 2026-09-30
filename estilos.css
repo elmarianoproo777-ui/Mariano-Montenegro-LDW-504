@@ -82,30 +82,6 @@ p {
     color: #8e8e8e;
 }
 
-nav {
-    margin-left: auto;
-
-    display: flex;
-    gap: 10px;
-}
-
-nav a {
-    padding: 9px 15px;
-
-    border-radius: 7px;
-
-    color: #a7a7a7;
-
-    font-size: 14px;
-
-    transition: 0.3s;
-}
-
-nav a:hover,
-nav a.activo {
-    color: white;
-    background: #c90016;
-}
 
 
 /* =========================================
