@@ -137,7 +137,12 @@ h2 {
 
 
 
-
+.linea {
+    width: 60px;
+    height: 4px;
+    margin: 20px auto;
+    background-color: #d00018;
+}
 
 
 /* PIE DE PÁGINA */
