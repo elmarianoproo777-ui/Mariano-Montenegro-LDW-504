@@ -160,29 +160,3 @@ footer {
 
 /* CELULAR */
 
-@media (max-width: 700px) {
-
-    .inicio {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .tarjeta {
-        width: 100%;
-        max-width: 400px;
-    }
-
-    h1 {
-        font-size: 50px;
-    }
-
-    .boton {
-        display: block;
-        margin: 10px 0;
-    }
-
-    footer {
-        flex-direction: column;
-        text-align: center;
-    }
-}
