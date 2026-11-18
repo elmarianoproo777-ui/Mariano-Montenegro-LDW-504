@@ -1,5 +1,5 @@
 body {
-    background-color: #d00018;
+    background-color: #000000;
 }
 
 header {
@@ -8,7 +8,7 @@ header {
     gap: 15px;
     padding: 15px 7%;
     border-bottom: 1px solid #000000;
-    background-color: #000000; /* Fondo negro */
+    background-color: #ff0000; /* Fondo negro */
 }
 
 .logo {
@@ -23,8 +23,8 @@ header {
 }
 
 main {
-    background-color: #333; /* Fondo gris */
-    color: white;
+    background-color: #ffffff; /* Fondo gris */
+    color: rgb(0, 0, 0);
     margin: 0;
     padding: 0;
 }
@@ -34,6 +34,6 @@ footer {
     justify-content: space-between;
     padding: 30px 7%;
     border-top: 1px solid #333;
-    background-color: #000000;
+    background-color: #ff0000;
     color: white;
 }
