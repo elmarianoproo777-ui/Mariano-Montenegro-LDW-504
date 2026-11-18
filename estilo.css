@@ -1,0 +1,40 @@
+body {
+    background-color: #000000;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 15px 7%;
+    border-bottom: 1px solid #000000;
+    background-color: #ff0000; /* Fondo negro */
+    color: white;
+}
+
+.logo {
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d00018;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+main {
+    background-color: #ffffff; /* Fondo gris */
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 7%;
+    border-top: 1px solid #333;
+    background-color: #ff0000;
+    color: white;
+}
