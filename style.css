@@ -1,4 +1,6 @@
-
+body {
+    background-color: #d00018;
+}
 
 header {
     display: flex;
@@ -33,4 +35,5 @@ footer {
     padding: 30px 7%;
     border-top: 1px solid #333;
     background-color: #000000;
+    color: white;
 }
